@@ -4,7 +4,7 @@ This project provides some prebuilt ZLib configuration scripts for easy building
 
 You can check this directory out in any location on your computer, but the default location that the `build.bat` script looks for is as a parent directory to where you check out the [k9webprotection/zlib][zlib-release] git project.  By default, this project contains a submodule of the subproject in the correct locations.
 
-[zlib-release]: https://github.com/madler/zlib
+[zlib-release]: https://github.com/k9webprotection/zlib
 
 ### Requirements ###
 
