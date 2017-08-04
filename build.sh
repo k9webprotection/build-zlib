@@ -80,6 +80,7 @@ do_combine_headers() {
             done
         fi
     done
+    find "${OBJDIR_ROOT}/include" -type f -exec dos2unix {} \; || return $?
 }
 
 do_package() {
