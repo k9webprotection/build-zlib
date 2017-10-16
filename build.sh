@@ -119,10 +119,10 @@ fi
 TARGET="${1}"; shift
 case "${TARGET}" in
     "copy-windows")
-        do_copy_windows $@
+        do_copy_windows "$@"
         ;;
     "package")
-        do_package $@
+        do_package "$@"
         ;;
     *)
         print_usage
