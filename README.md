@@ -1,10 +1,10 @@
 ## ZLib (Windows) Building ##
 
-This project provides some prebuilt ZLib configuration scripts for easy building on Windows platforms.  It contains as a submodule, the [k9webprotection/zlib][zlib-release] project.
+This project provides some prebuilt ZLib configuration scripts for easy building on Windows platforms.  It contains as a submodule, the [toonetown/zlib][zlib-release] project.
 
-You can check this directory out in any location on your computer, but the default location that the `build.bat` script looks for is as a parent directory to where you check out the [k9webprotection/zlib][zlib-release] git project.  By default, this project contains a submodule of the subproject in the correct locations.
+You can check this directory out in any location on your computer, but the default location that the `build.bat` script looks for is as a parent directory to where you check out the [toonetown/zlib][zlib-release] git project.  By default, this project contains a submodule of the subproject in the correct locations.
 
-[zlib-release]: https://github.com/k9webprotection/zlib
+[zlib-release]: https://github.com/toonetown/zlib
 
 ### Requirements ###
 
